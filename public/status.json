@@ -1,0 +1,16 @@
+{
+  "maintenance": false,
+  "sourceOffline": false,
+  "update": {
+    "available": true,
+    "version": "5.1",
+    "notes": [
+      "Cambio de canal instantáneo: se eliminó la demora de 5-6 segundos al sintonizar.",
+      "Subtítulos en español con un toque desde el reproductor (se activan por canal).",
+      "Nuevos selectores de idioma de audio y calidad de video en la barra de control.",
+      "La app retoma automáticamente el último canal que estabas viendo al abrirla.",
+      "Información del programa: presioná \"i\" o tocá un programa en la guía para ver sus detalles.",
+      "Mejoras de rendimiento y correcciones en la guía EPG y el reproductor."
+    ]
+  }
+}
